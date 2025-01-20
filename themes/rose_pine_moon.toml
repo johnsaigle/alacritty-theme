@@ -3,12 +3,12 @@ background = '#232136'
 foreground = '#e0def4'
 
 [colors.cursor]
-text = '#e0def4'
-cursor = '#56526e'
+text = '#ffffff'
+cursor = '#eb6f92'
 
 [colors.vi_mode_cursor]
-text = '#e0def4'
-cursor = '#56526e'
+text = '#ffffff'
+cursor = '#eb6f92'
 
 [colors.selection]
 text = '#e0def4'
